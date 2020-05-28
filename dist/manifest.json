@@ -12,7 +12,9 @@
     "default_popup": "popup/popup.html"
   },
   "background": {
-    "scripts": ["background.js"]
+    "scripts": [
+      "background.js"
+    ]
   },
   "homepage_url": "http://images.yantinglife.com/index.html",
   "options_ui": {

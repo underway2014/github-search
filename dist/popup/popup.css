@@ -1,0 +1,117 @@
+
+.main-contain[data-v-6b5c68ae] {
+  text-align: center;
+}
+.custom-space[data-v-6b5c68ae] {
+  height: 20px;
+}
+.tip[data-v-6b5c68ae] {
+  font-size: 22px;
+  font-weight: 400;
+}
+.serarch-contain[data-v-6b5c68ae] {
+  width: 40%;
+  min-width: 700px;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+.search-keys[data-v-6b5c68ae] {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.item[data-v-6b5c68ae] {
+  margin: 10px 0;
+  font-size: 18px;
+  display: flex;
+}
+.name-label[data-v-6b5c68ae] {
+  width: 100px;
+  display: inline-flex;
+  justify-content: flex-end;
+  align-content: center;
+  align-items: center;
+  margin: 0 10px;
+}
+.content[data-v-6b5c68ae] {
+  outline-style: none;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 6px 6px;
+  width: 200px;
+}
+input[data-v-6b5c68ae] {
+  font-size: 14px;
+}
+input[data-v-6b5c68ae]:focus {
+  border-color: #66afe9;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  font-size: 16px;
+}
+.tool-bar[data-v-6b5c68ae] {
+  display: flex;
+  justify-content: center;
+}
+.tool-bar > div[data-v-6b5c68ae] {
+  margin: 10px;
+  border: solid 1px rgba(102, 175, 233, 0.6);
+  width: 50px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 5px;
+  cursor: pointer;
+
+  -moz-user-select: none; /*火狐*/
+  -webkit-user-select: none; /*webkit浏览器*/
+  -ms-user-select: none; /*IE10*/
+  -khtml-user-select: none; /*早期浏览器*/
+  user-select: none;
+}
+.tool-bar > div[data-v-6b5c68ae]:active {
+  font-size: 19px;
+}
+#cnzz_stat_icon_1278856908[data-v-6b5c68ae] {
+  display: none;
+  width: 0;
+  height: 0;
+}
+.ad[data-v-6b5c68ae] {
+  display: flex;
+  width: 70%;
+  align-content: center;
+  justify-content: center;
+  border: solid 1px rgba(0, 0, 0, 0.075);
+  margin: 0 auto;
+  margin-top: 120px;
+}
+.ad > div[data-v-6b5c68ae] {
+  display: flex;
+  background-color: rgba(247, 239, 239, 0.945);
+}
+.fimage[data-v-6b5c68ae] {
+  width: 70%;
+}
+.fdesc[data-v-6b5c68ae] {
+  width: 30%;
+  flex-direction: column;
+}
+.fruit[data-v-6b5c68ae] {
+  width: 100%;
+}
+.desc[data-v-6b5c68ae] {
+  margin: 10px 10px;
+  line-height: 30px;
+}
+.desc span[data-v-6b5c68ae] {
+  color: #c9531c;
+}
+.qrcode[data-v-6b5c68ae] {
+  margin: 0px 20px;
+}
+.qrcode img[data-v-6b5c68ae] {
+  width: 100%;
+}
+

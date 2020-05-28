@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>Hello world!</p>
+    <p>欢迎使用github助手</p>
   </div>
 </template>
 
