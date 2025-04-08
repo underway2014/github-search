@@ -10,9 +10,6 @@
 * 打开开发者模式
 * 点击加载已解压的扩展程序 -> 选择上面克隆的地址指向dist目录(如：xxx\github-search\dist)
 
-## 网页版地址
-http://images.yantinglife.com/index.html
-
 ## 关于作者
 ```javascript
 var author = {
